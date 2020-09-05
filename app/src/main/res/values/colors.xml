@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F63852</color>
+    <color name="colorPrimaryDark">#8C2433</color>
+    <color name="colorAccent">#1e344b</color>
+
+    <!--Login and Welcome-->
+    <color name="grey">#233752</color>
+    <color name="lightGrey">#929BA8</color>
+    <color name="red">#F63852</color>
+    <color name="darkRed">#8C2433</color>
+    <color name="white">#FFFFFF</color>
+    <color name="extraColor">#233462</color>
+
+    <!--RSS Feed-->
+    <color name="rssPrimary">#ea474a</color>
+    <color name="rssPrimaryDark">#cf2a2d</color>
+    <color name="rssAccent">#1e344b</color>
+    <color name="rssBackground">#FFFFFF</color>
+    <color name="rssTextSubtitle">#4e4e4e</color>
+    <color name="rssTextTitle">#262626</color>
+</resources>
